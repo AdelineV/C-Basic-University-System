@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1596369485 source:d:\coding things!\1 cpp saif kifah\1 final project\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596096369 d:\coding things!\1 cpp saif kifah\1 final project\include\password.h
+
+1596173070 d:\coding things!\1 cpp saif kifah\1 final project\include\profile.h
+	<Password.h>
+
+1596190578 d:\coding things!\1 cpp saif kifah\1 final project\include\courses.h
+
+1596020871 d:\coding things!\1 cpp saif kifah\1 final project\include\enrol.h
+
+1596189436 d:\coding things!\1 cpp saif kifah\1 final project\include\student.h
+	<Courses.h>
+	<Profile.h>
+	<Enrol.h>
+	<iostream>
+
+1596191570 d:\coding things!\1 cpp saif kifah\1 final project\include\lecturer.h
+	<Profile.h>
+	<Courses.h>
+
+1596095119 d:\coding things!\1 cpp saif kifah\1 final project\include\admin.h
+	<Courses.h>
+	<Profile.h>
+	<Enrol.h>
+
+1596079106 source:d:\coding things!\1 cpp saif kifah\1 final project\src\admin.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596191126 source:d:\coding things!\1 cpp saif kifah\1 final project\src\courses.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+	<iostream>
+
+1596079587 source:d:\coding things!\1 cpp saif kifah\1 final project\src\enrol.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596191569 source:d:\coding things!\1 cpp saif kifah\1 final project\src\lecturer.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596096370 source:d:\coding things!\1 cpp saif kifah\1 final project\src\password.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596168538 source:d:\coding things!\1 cpp saif kifah\1 final project\src\profile.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596190564 source:d:\coding things!\1 cpp saif kifah\1 final project\src\student.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596369486 source:d:\codeblocks programs\1 final project\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596096370 d:\codeblocks programs\1 final project\include\password.h
+
+1596173072 d:\codeblocks programs\1 final project\include\profile.h
+	<Password.h>
+
+1596190580 d:\codeblocks programs\1 final project\include\courses.h
+
+1596020872 d:\codeblocks programs\1 final project\include\enrol.h
+
+1596189438 d:\codeblocks programs\1 final project\include\student.h
+	<Courses.h>
+	<Profile.h>
+	<Enrol.h>
+	<iostream>
+
+1596191572 d:\codeblocks programs\1 final project\include\lecturer.h
+	<Profile.h>
+	<Courses.h>
+
+1596095120 d:\codeblocks programs\1 final project\include\admin.h
+	<Courses.h>
+	<Profile.h>
+	<Enrol.h>
+
+1596079108 source:d:\codeblocks programs\1 final project\src\admin.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596191128 source:d:\codeblocks programs\1 final project\src\courses.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+	<iostream>
+
+1596079588 source:d:\codeblocks programs\1 final project\src\enrol.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596191570 source:d:\codeblocks programs\1 final project\src\lecturer.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596096372 source:d:\codeblocks programs\1 final project\src\password.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596168540 source:d:\codeblocks programs\1 final project\src\profile.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
+1596190566 source:d:\codeblocks programs\1 final project\src\student.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+	"Password.h"
+	"Profile.h"
+	"Courses.h"
+	"Enrol.h"
+	"Student.h"
+	"Lecturer.h"
+	"Admin.h"
+
